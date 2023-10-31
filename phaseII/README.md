@@ -3,7 +3,7 @@
 ## Introduction
 
 !!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
-After establishing a connection in phase1 the main goal of phase2 was getting multiple connections...
+After establishing a connection in phase1 the main goal of phase2 was getting multiple connections... 
 
 ## Methods
 
