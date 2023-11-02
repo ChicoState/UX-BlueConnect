@@ -2,18 +2,15 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
-After establishing a connection in phase1 the main goal of phase2 was getting multiple connections... 
+After establishing a connection in phase1 the main goal of phase2 was getting multiple connections - there is an issue of having to hardcode the ids for a given device.
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
 Cognitive Walkthru created from WireFrames, Informal Feedback
 
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
 From the Cognitive Walkthru and the Informal Feedback...
 Meet up with Software team to make a clearer Wireframe...
 
