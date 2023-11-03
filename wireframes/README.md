@@ -1,6 +1,6 @@
 # Wireframes
 
-In this folder there are two wireframes: one done with the cognitive walkthrough (the before) and one revised using the cognitive walkthrough and informal feedback (the finalized). The finalized wireframe has each screen as an artboard and will be briefly described below.
+In this folder there are two wireframes: one done with the cognitive walkthrough (the before) and one revised using the cognitive walkthrough and informal feedback (the finalized). The finalized wireframe has each screen as an artboard and will be described below.
 
 ## Finalized Wireframe
 This app is done through Android and there is a back button implemented on everypage but the homescreen that takes the user to the previously visited screen.
