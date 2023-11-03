@@ -29,7 +29,7 @@ BlueConnect is a mobile application intended to allow the user to seamlessly con
 * These features provide an important foundation that will be built on in the next phase
 * Our next goal will be to enable multiple devices to connect at once and enable the application to search and identify Bluetooth products on its own.
 
-[Full phase I report](https://github.com/ChicoState/UX-BlueConnect/tree/1f4573a371169db25be78edb459220db7e0570fa/phaseI)
+[Full phase I report](phaseI/)
 
 # Phase II: Refining interaction and designing wireframes
 
