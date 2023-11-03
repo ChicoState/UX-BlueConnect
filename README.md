@@ -14,8 +14,8 @@ BlueConnect is a mobile application intended to allow the user to seamlessly con
 
 # User-Centered Design Artifacts
 
-* [Personas and Scenarios](https://github.com/acderosas/pdf/blob/847c3bbc21369efb77dfc31ad001b2a434b5786a/BlueConnect%20Personas%20and%20Scenarios.pdf)
-* [Sketches and Diagrams](https://github.com/acderosas/pdf/blob/847c3bbc21369efb77dfc31ad001b2a434b5786a/BlueConnect%20Sketch.pdf)
+* [Personas and Scenarios](/assets/BlueConnect_Personas_and_Scenarios.pdf)
+* [Sketches and Diagrams](/assets/BlueConnect_Sketch.pdf)
 * [Wireframes](wireframes/)
 * [Prototype](#)
 
