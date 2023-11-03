@@ -34,11 +34,12 @@ BlueConnect is a mobile application intended to allow the user to seamlessly con
 # Phase II: Refining interaction and designing wireframes
 
 **Executive Summary**
-
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Analysis from Cognitive Walkthroughs of the current wireframes
+  -Users would have preferred a back button over the currently implemented home button
+  -Settings button should be an icon rather than the name of the device
+* Analysis from informal analysis with Software team
+  -Certain features should be removed as they were not useful to users
+  -Efficiency should be improved in future designs through streamlining of processes
 
 [Full phase II report](phaseII/)
 
