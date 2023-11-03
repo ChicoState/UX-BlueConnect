@@ -35,11 +35,11 @@ BlueConnect is a mobile application intended to allow the user to seamlessly con
 
 **Executive Summary**
 * Analysis from Cognitive Walkthroughs of the current wireframes
-  -Users would have preferred a back button over the currently implemented home button
-  -Settings button should be an icon rather than the name of the device
+  - Users would have preferred a back button over the currently implemented home button
+  - Settings button should be an icon rather than the name of the device
 * Analysis from informal analysis with Software team
-  -Certain features should be removed as they were not useful to users
-  -Efficiency should be improved in future designs through streamlining of processes
+  - Certain features should be removed as they were not useful to users
+  - Efficiency should be improved in future designs through streamlining of processes
 
 [Full phase II report](phaseII/)
 
