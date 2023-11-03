@@ -17,12 +17,9 @@ The cognitive walkthrough helped determine that there was some confusing aspects
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
-
-Discussing how the final design of BlueConnect would look like with the software team and taking consideration the reviews from the Cognitive walthrough, the final wireframe was adjusted...
+Our findings from the cognitive walkthrough helped us to determine a few key things about the way the application’s UX should be implemented.  Firstly, a more conventional back button is preferable to avoid user confusion when trying to back out of a screen.  Second there should be a clear indicator for how to enter a device’s settings, a cogwheel next to the device’s name would be an easy to understand implementation.  We also got some informal feedback from the software development team, indicating that some superfluous features such as chat and listen should be removed in order to streamline the app.
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
-
-Again limited to amount of devices...
+A cognitive walkthrough is not a substitute for a study involving real users, so there could be potential issues with the design that were not brought to light through the cognitive walkthrough.  Wireframes are still low fidelity so those performing the cognitive walkthroughs might have made certain assumtions about the way the app functioned that 
+could lead to uncaught design flaws.
