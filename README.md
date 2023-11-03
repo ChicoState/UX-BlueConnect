@@ -37,7 +37,7 @@ BlueConnect is a mobile application intended to allow the user to seamlessly con
 * In this phase a Cognitive Walkthrough is done with a sample user and scenario for the current wireframe.
   This is done to better understand the user's mental model for the wireframe.
 * Informal Feedback from the Software team is used to understand what limitations there are for the software
-  and how the conceptual model of BlueConnect can change
+  and how the conceptual model of BlueConnect has changed (must pivot to new idea)
 * Analysis from Cognitive Walkthroughs of the current wireframes
   - Users would have preferred a back button over the currently implemented home button
   - Settings button should be an icon rather than the name of the device
