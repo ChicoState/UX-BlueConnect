@@ -44,7 +44,7 @@ BlueConnect is a mobile application intended to allow the user to seamlessly con
 * Analysis from Informal Feedback from Software team
   - Remove the listen button and chat feature
   - Add troubleshooting and ability to listen to downloaded music
-* For Phase III the priority it to get devices to output downloaded music for users to listen to
+* For Phase III the priority it to get devices to output the audio of downloaded music for users to listen to
 
 [Full phase II report](phaseII/)
 
