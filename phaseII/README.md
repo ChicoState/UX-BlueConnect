@@ -2,7 +2,7 @@
 
 ## Introduction
 
-After establishing a connection in phase 1 the main goal of phase 2 was getting multiple connections - there was an issue of having to hardcode the ids for a given device.
+After establishing a connection in phase 1 the main goal of phase 2 was getting multiple connections.
 
 ## Methods
 
@@ -12,8 +12,7 @@ Informal Feedback from the software development team ...
 
 ## Findings
 
-The cognitive walkthrough helped determine that there was some confusing aspects in the wireframe - the mental model of the user doesn't match with the conceptual model for BlueConnect. Instead of having a home button for this app, the BlueConnect Banner was implemented as the home button which proved confusing instead of having a simple back button. Another confusing aspect was how a user would access the settings for an individual device. In the wireframe, clicking on the name of a connected device would lead to a screen of that device's settings, but with multiple devices being connected and not a clear button to see more information for a device the user could be confused. The Informal Feedback helped question how the conceptual model of BlueConnect should look.
-
+The cognitive walkthrough helped determine that there was some confusing aspects in the wireframe - the mental model of the user doesn't match with the conceptual model for BlueConnect. Instead of having a home button for this app, the BlueConnect Banner was implemented as the home button which proved confusing instead of having a simple back button. Another confusing aspect was how a user would access the settings for an individual device. In the wireframe, clicking on the name of a connected device would lead to a screen of that device's settings, but with multiple devices being connected and not a clear button to see more information for a device, users could be confused. The Informal Feedback helped question how the conceptual model of BlueConnect should look. There was a change in approach from the Software Team so the UX Team has to follow suit. BlueConnect is now an application that is used to listen to downloaded music so the application must show that. A troubleshooting feature was also suggested by the Software Team.
 
 ## Conclusions
 
@@ -21,5 +20,4 @@ Our findings from the cognitive walkthrough helped us to determine a few key thi
 
 ## Caveats
 
-A cognitive walkthrough is not a substitute for a study involving real users, so there could be potential issues with the design that were not brought to light through the cognitive walkthrough.  Wireframes are still low fidelity so those performing the cognitive walkthroughs might have made certain assumptions about the way the app functioned that 
-could lead to uncaught design flaws.
+A cognitive walkthrough is not a substitute for a study involving real users, so there could be potential issues with the design that were not brought to light through the cognitive walkthrough.  Wireframes are still low fidelity so those performing the cognitive walkthroughs might have made certain assumptions about the way the app functioned that could lead to uncaught design flaws.
