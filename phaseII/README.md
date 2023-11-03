@@ -19,7 +19,7 @@ The cognitive walkthrough helped determine that there was some confusing aspects
 
 !!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
 
-Discussing how the final design of BlueConnect would look like and taking consideration the reviews from the Cognitive walthrough, the final wireframe was adjusted...
+Discussing how the final design of BlueConnect would look like with the software team and taking consideration the reviews from the Cognitive walthrough, the final wireframe was adjusted...
 
 ## Caveats
 
