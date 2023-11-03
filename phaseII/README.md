@@ -21,5 +21,5 @@ Our findings from the cognitive walkthrough helped us to determine a few key thi
 
 ## Caveats
 
-A cognitive walkthrough is not a substitute for a study involving real users, so there could be potential issues with the design that were not brought to light through the cognitive walkthrough.  Wireframes are still low fidelity so those performing the cognitive walkthroughs might have made certain assumtions about the way the app functioned that 
+A cognitive walkthrough is not a substitute for a study involving real users, so there could be potential issues with the design that were not brought to light through the cognitive walkthrough.  Wireframes are still low fidelity so those performing the cognitive walkthroughs might have made certain assumptions about the way the app functioned that 
 could lead to uncaught design flaws.
