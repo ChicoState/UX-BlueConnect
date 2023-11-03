@@ -1,6 +1,6 @@
 # BlueConnect
 
-BlueConnect is a mobile application intended to allow the user to seamlessly connect to multiple bluetooth devices at once.
+BlueConnect is a mobile application intended to allow the user to seamlessly connect to multiple bluetooth devices and play downloaded music.
 
 ## UX Team Members
 
@@ -37,9 +37,9 @@ BlueConnect is a mobile application intended to allow the user to seamlessly con
 * Analysis from Cognitive Walkthroughs of the current wireframes
   - Users would have preferred a back button over the currently implemented home button
   - Settings button should be an icon rather than the name of the device
-* Analysis from informal analysis with Software team
-  - Certain features should be removed as they were not useful to users
-  - Efficiency should be improved in future designs through streamlining of processes
+* Analysis from informal Feedback from Software team
+  - Remove the listen button and chat feature
+  - Add troubleshooting and ability to listen to downloaded music
 
 [Full phase II report](phaseII/)
 
