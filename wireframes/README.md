@@ -3,7 +3,9 @@
 In this folder there are two wireframes: one done with the cognitive walkthrough (the before) and one revised using the cognitive walkthrough and informal feedback (the finalized). The finalized wireframe has each screen as an artboard and will be described below.
 
 ## Finalized Wireframe
-This app is done through Android and there is a back button implemented on everypage but the homescreen that takes the user to the previously visited screen.
+Some brief notes: 
+* There is a back button implemented on every page but the homescreen that takes the user to the previously visited screen.
+* This is an application done through Android so a phone template was used.                  
 
 ### Home Screen:
 This screen displays the main functions of BlueConnect: the ability to connect multiple devices, adjust the settings of a device, play downloaded music individually or as a playlist, and request help if needed.
