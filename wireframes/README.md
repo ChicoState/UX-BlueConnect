@@ -8,3 +8,4 @@ In this folder there are two wireframes: one done with the cognitive walkthrough
 Alex wants to use their smartphone to connect their wireless headphones, smartwatch, and wireless keyboard simultaneously to enhance productivity.
 Alex is looking for an app that allows easy device management, customization of connections, and quick switching between devices.
 
+![Home Screen](../wireframes/BlueConnect_Artboard1.png)
