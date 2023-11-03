@@ -6,13 +6,13 @@ After establishing a connection in phase 1 the main goal of phase 2 was getting 
 
 ## Methods
 
-A cognitive walkthrough done on wireframe with a user and scenario helped to ...
+A cognitive walkthrough done on a wireframe with a user and scenario helped to ...
 Informal Feedback from the software development team ...  
 
 
 ## Findings
 
-The cognitive walkthrough helped determine that there was some confusing aspects in the wireframe - the mental model of the user doesn't match with the conceptual model for BlueConnect. Instead of having a home button for this app, the BlueConnect Banner was implemented as the home button which proved confusing instead of having a simple back button. Another confusing aspect was how a user would access the settings for an individual device. In the wireframe, clicking on the name of a connected device would lead to a screen of that device's settings, but with multiple devices being connected and not a clear button to see more information for a device the user could be confused. The Informal Feedback helped to question the mental model of the 
+The cognitive walkthrough helped determine that there was some confusing aspects in the wireframe - the mental model of the user doesn't match with the conceptual model for BlueConnect. Instead of having a home button for this app, the BlueConnect Banner was implemented as the home button which proved confusing instead of having a simple back button. Another confusing aspect was how a user would access the settings for an individual device. In the wireframe, clicking on the name of a connected device would lead to a screen of that device's settings, but with multiple devices being connected and not a clear button to see more information for a device the user could be confused. The Informal Feedback helped question how the conceptual model of BlueConnect should look.
 
 
 ## Conclusions
