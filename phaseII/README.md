@@ -2,22 +2,24 @@
 
 ## Introduction
 
-After establishing a connection in phase1 the main goal of phase2 was getting multiple connections - there is an issue of having to hardcode the ids for a given device.
+After establishing a connection in phase 1 the main goal of phase 2 was getting multiple connections - there was an issue of having to hardcode the ids for a given device.
 
 ## Methods
 
-Cognitive Walkthru created from WireFrames, Informal Feedback
+A cognitive walkthrough done on wireframe with a user and scenario helped to ...
+Informal Feedback from the software development team ...  
 
 
 ## Findings
 
-From the Cognitive Walkthru and the Informal Feedback...
-Meet up with Software team to make a clearer Wireframe...
+The cognitive walkthrough helped determine that there was some confusing aspects in the wireframe - where the mental model of the user doesn't match . Instead of having a home button for this app, the BlueConnect Banner was implemented as the home button which proved confusing instead of having a simple back button. Another confusing aspect was how a user would access the settings for an individual device. In the wireframe, clicking on the name of a connected device would lead to a screen of that device's settings, but with multiple devices being connected and not a clear button to see more information for a device the user could be confused. The Informal Feedback helped to question the mental model of the 
+
 
 ## Conclusions
 
 !!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
-Moving on to an interactive prototype...
+
+Discussing how the final design of BlueConnect would look like and taking consideration the reviews from the Cognitive walthrough, the final wireframe was adjusted...
 
 ## Caveats
 
