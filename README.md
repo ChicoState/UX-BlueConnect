@@ -36,13 +36,13 @@ BlueConnect is a mobile application intended to allow the user to seamlessly con
 **Executive Summary**
 * In this phase a Cognitive Walkthrough is done with a sample user and scenario for the current wireframe.
   This is done to better understand the user's mental model for the wireframe.
-* Informal Feedback from the Software team is used to understand what limitations there are for the software
+* Informal Feedback from the Software Team is used to understand what limitations there are for the software
   and how the conceptual model of BlueConnect has changed (must pivot to new idea)
 * Analysis from Cognitive Walkthroughs of the current wireframes
   - Users would have preferred a back button over the currently implemented home button
   - Settings button should be made more clear (button created called Settings)
   - Option to have preset mixes for a device
-* Analysis from Informal Feedback from Software team
+* Analysis from Informal Feedback from Software Team
   - Remove the listen button and chat feature
   - Add troubleshooting and ability to listen to downloaded music
 * For Phase III the priority it to get devices to output the audio of downloaded music for users to listen to
