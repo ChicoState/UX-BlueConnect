@@ -17,7 +17,7 @@ BlueConnect is a mobile application intended to allow the user to seamlessly con
 * [Personas and Scenarios](/assets/BlueConnect_Personas_and_Scenarios.pdf)
 * [Sketches and Diagrams](/assets/BlueConnect_Sketch.pdf)
 * [Wireframes](wireframes/)
-* [Prototype](#)
+* [Prototype](#) 
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
