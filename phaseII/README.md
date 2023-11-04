@@ -2,12 +2,11 @@
 
 ## Introduction
 
-After getting a device to connect to BlueConnect in Sprint I, the main goal of Sprint II is getting multiple devices to connect to BlueConnect. For Phase II a cognitive walkthrough will be done on a wireframe with the intentions of showing how a user can get multiple connections to the application.
+After getting a device to connect to BlueConnect in Sprint I, the main goal of Sprint II is getting multiple devices to connect to BlueConnect. For Phase II a cognitive walkthrough will be done on a wireframe with the intentions of highlighting how a user can get multiple connections to the application.
 
 ## Methods
 
-A cognitive walkthrough done on a wireframe with a user and scenario helped to ...
-Informal Feedback from the software development team ...  
+During this phase, the methods used were cognitive walkthroughs and informal feedback. Cognitive walkthroughs were done for a persona and scenario using the wireframe that was made at the time. The persona was Alex, a person who is experienced with using Bluetooth, and has multiple Bluetooth devices. The scenario was getting Alex to connect his wireless headphones, smartwatch, and wireless keyboardsimultaneously to enhance productivity. Alex's goals for the app included device management, customization of connections, and quick switching between devices. The cognitive walkthrough best visualizes how the app flows (not the asthetics of app as wireframes do not focus on design) and helps determine what functions/buttons make sense and what does not make sense for a user. The informal feedback
 
 ## Findings
 
