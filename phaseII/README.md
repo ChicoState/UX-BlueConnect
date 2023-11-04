@@ -2,7 +2,7 @@
 
 ## Introduction
 
-After establishing a connection in Sprint I the main goal of Sprint II was getting multiple connections. For Phase II a cognitive walkthrough will be done on a wireframe with the intentions of showing how a user can get multiple connections to the application.
+After getting a device to connect to BlueConnect in Sprint I, the main goal of Sprint II is getting multiple devices to connect to BlueConnect. For Phase II a cognitive walkthrough will be done on a wireframe with the intentions of showing how a user can get multiple connections to the application.
 
 ## Methods
 
