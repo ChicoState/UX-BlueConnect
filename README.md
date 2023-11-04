@@ -40,7 +40,8 @@ BlueConnect is a mobile application intended to allow the user to seamlessly con
   and how the conceptual model of BlueConnect has changed (must pivot to new idea)
 * Analysis from Cognitive Walkthroughs of the current wireframes
   - Users would have preferred a back button over the currently implemented home button
-  - Settings button should be an icon rather than the name of the device
+  - Settings button should be made more clear (button created called Settings)
+  - Option to have preset mixes for a device
 * Analysis from Informal Feedback from Software team
   - Remove the listen button and chat feature
   - Add troubleshooting and ability to listen to downloaded music
