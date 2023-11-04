@@ -1,6 +1,6 @@
 # Wireframes
 
-In this folder there are two wireframes: one done with the cognitive walkthrough ([the before](../wireframes/BlueConnect_Wireframe_Before.pdf)) and one revised using the cognitive walkthrough and informal feedback ([the finalized](../wireframes/Finalized_BlueConnect_Wireframe.pdf)). The finalized wireframe has each screen as an artboard and will be described below.
+In this folder there are two wireframes: one done with the cognitive walkthrough ([artboards before](../wireframes/BlueConnect_Wireframe_Before.pdf)) and one revised using the cognitive walkthrough and informal feedback ([finalized artboards](../wireframes/Finalized_BlueConnect_Wireframe.pdf)). The finalized wireframe has each screen as an artboard and will be described below.
 
 ## Finalized Wireframe
 Some brief notes: 
