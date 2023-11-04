@@ -2,7 +2,7 @@
 
 ## Introduction
 
-After establishing a connection in Phase I the main goal of Phase II was getting multiple connections.
+After establishing a connection in Sprint I the main goal of Sprint II was getting multiple connections. For Phase II a cognitive walkthrough will be done on a wireframe with the intentions of showing how a user can get multiple connections to the application.
 
 ## Methods
 
