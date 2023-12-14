@@ -7,7 +7,7 @@ With developing an Interactive Prototype (Using Wireframes made during Phase II)
 ## Methods
 
 The research method for Phase III was a Usability Test (n = 6) done on the BlueConnect Prototype. The [Protocol](../phaseIII/Protocol.pdf) was used by the moderator to conduct the test and data was collected into a [Spreadsheet](https://docs.google.com/spreadsheets/d/1luWYVmIG-7Ci7HbFj4Ql9mjTNEpF34J8a3IvDMtyEwY/edit?usp=sharing). But before the test could begin, the partipant is handed a [Informed Consent Form](../phaseIII/Informed_Consent_Form.pdf) that they must sign for the test to continue.  
-
+ 
 
 ### Below the Protocol will be broken down to assess the methodology of the Usability Test (In order of Methods):  
 
