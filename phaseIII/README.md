@@ -6,7 +6,7 @@ With developing an Interactive Prototype (Using Wireframes made during Phase II)
 
 ## Methods
 
-The research method for Phase III was a Usability Test (n = 6) done on the BlueConnect Prototype. The [Protocol](../phaseIII/Protocol.pdf) was used by the moderator to conduct the test and data was collected into a [Spreadsheet](https://docs.google.com/spreadsheets/d/1luWYVmIG-7Ci7HbFj4Ql9mjTNEpF34J8a3IvDMtyEwY/edit?usp=sharing). But before the test could begin, the partipant is handed a [Informed Consent Form](../phaseIII/Informed_Consent_Form.pdf) that they must sign for the test to continue.  
+The research method for Phase III was a Usability Test (n = 6) done on the BlueConnect [Prototype](https://xd.adobe.com/view/b56a1e34-8433-4fe9-8865-53b3ed0c8e87-e039/?fullscreen&hints=off). The [Protocol](../phaseIII/Protocol.pdf) was used by the moderator to conduct the test and data was collected into a [Spreadsheet](https://docs.google.com/spreadsheets/d/1luWYVmIG-7Ci7HbFj4Ql9mjTNEpF34J8a3IvDMtyEwY/edit?usp=sharing). But before the test could begin, the partipant is handed a [Informed Consent Form](../phaseIII/Informed_Consent_Form.pdf) that they must sign for the test to continue.  
 
 It is important to note that the study will not involve a comparative analysis with a leading competitor as no similar application exists. Instead, both quantitative and qualitative data will be gathered to understand user preferences and experiences. 
 
