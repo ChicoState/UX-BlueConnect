@@ -48,10 +48,17 @@ The findings from the Usability Test were collated into this [Spreadsheet](https
 ### Qualitative Data:
 
 There were several areas of improvement suggested by the participants: 
+- There is a lack of continuity as the settings would refresh
+- There should be a notification to inform a user that preset, playlists, etc. have saved
+- Clearer design for the mixer (E.g., a slider that slides instead of being a notch)
+- Make the design of each screen less cluttered
+
+From the suggestions, the main issues can be derived to functionality and flow of the application. There is a mismatch between the participants mental model with the conceptual model for BlueConnect. Some buttons behave differently from what a user is expecting and there should be more feedback coming from the interaction (E.x. Notifications for whether something saved). There is also a need to simplify the design even further to make the screen look less busy (cluttered) and easier to comprehend so all the functions can be seen. 
+
 
 ### Quantitative Data:
 
-From the spreadsheet, 100% of the participants were able to complete Task 1 and Task 2. Also, the User Ratings from Task 1 & Task 2 (and to that extent the overall test) both had 33% of participants give a score of 3 (satisfied) and 67% of participants give a score of 4 (very satisfied).
+From the spreadsheet, 100% of the participants were able to complete Task 1 and Task 2. Also, the User Ratings from Task 1 & Task 2 (and to that extent the overall test) both had 33% of participants give a score of 3 (satisfied) and 67% of participants give a score of 4 (very satisfied). From looking at the qualitative data mentioned previously, and the quantitative data attained from user satisfaction/success, the application is satisfying to use but lacks effectiveness to communicate how the applicaiton functions.
 
 ![User Ratings](../phaseIII/User_Ratings.png)
 
