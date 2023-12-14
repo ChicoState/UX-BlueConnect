@@ -43,9 +43,7 @@ This gets the participants overall impression of the application by getting what
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!  
-
-The findings in the Usability Test were collated into a [Spreadsheet](https://docs.google.com/spreadsheets/d/1luWYVmIG-7Ci7HbFj4Ql9mjTNEpF34J8a3IvDMtyEwY/edit?usp=sharing).
+The findings from the Usability Test were collated into a [Spreadsheet](https://docs.google.com/spreadsheets/d/1luWYVmIG-7Ci7HbFj4Ql9mjTNEpF34J8a3IvDMtyEwY/edit?usp=sharing).
 
 Give themes of qualitative data
 
