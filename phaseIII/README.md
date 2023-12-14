@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+With developing an Interactive Prototype during this phase, a Usability Test was conducted to determine how Effective, Efficicent, and Satisfactory the application was at completing two tasks: Adjusting multiple device settings and creating a playlsit. The results are then used to improve the application's design, functionality, and to create a better user experience.
 
 ## Methods
 
