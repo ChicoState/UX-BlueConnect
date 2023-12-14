@@ -5,11 +5,11 @@ BlueConnect is a mobile application intended to allow the user to seamlessly con
 ## UX Team Members
 
 * **[Isael Melchor-Puentes](https://github.com/UsabilityEngineering/ux-portfolio-isaelpuentes/blob/a181573f1078a1858d5320df7f80a24f41cc5435/README.md)** - Phase I: Introduction, Methods //
-  Phase II: Introduction, Methods
+  Phase II: Introduction, Methods // Phase III: Intro, Methods, Protocol
 * **[Daniel Rogers](https://github.com/UsabilityEngineering/ux-portfolio-droge91/blob/3e5aa57f10c3ef0bf55f186bfd34936d14a966cb/README.md)** - Phase I: Caveats, Conclusions, Executive Summary //
-  Phase II: Caveats, Conclusions, Executive Summary
+  Phase II: Caveats, Conclusions, Executive Summary // Phase III: Caveats, Conclusions, Executive Summary, IRB, Consent Form
 * **[Andre de Rosas](https://github.com/UsabilityEngineering/ux-portfolio-acderosas/blob/7a411be7cf9e058c7f136547a4d60ab5fa39037f/README.md)** - Phase I: Sketches/Diagrams, Personas and Scenarios, and Findings //
-  Phase II: Wireframes, Findings
+  Phase II: Wireframes, Findings // Phase III: Protocol, Findings, Spreadsheet
 
 
 # User-Centered Design Artifacts
@@ -53,9 +53,22 @@ BlueConnect is a mobile application intended to allow the user to seamlessly con
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* In this phase a Usability Test was conducted through an interactive prototype (developed from the wireframe in Phase II) and with IRB approval.
+* During this phase, there were six participants for the Usability Test that provided formal feedback for the prototype to improve
+  the design, button functionality, and understandability of the application.
+* Feedback from the Usability Test:
+  - There is a lack of continuity as the settings would refresh
+  - There should be a notification to inform a user that preset, playlists, etc. have saved
+  - Clearer design for the mixer (E.g., a slider that slides instead of being a notch)
+  - Make the design of each screen less cluttered
+* Quantitative data from the Usability Test:
+  - 100% of the participants had multiple Bluetooth devices that they would frequently use
+  - 100% of the participants passed both Task 1 and Task 2
+  - 33% of the participants gave Task 1 the user rating 3 - Satisfied (Scaled from 1 - 4)
+  - 67% of the participants gave Task 1 the user rating 4 - Very Satisfied (Scaled from 1 - 4)
+  - 33% of the participants gave Task 2 the user rating 3 - Satisfied (Scaled from 1 - 4)
+  - 67% of the participants gave Task 2 the user rating 4 - Very Satisfied (Scaled from 1 - 4)
+* From the feedback and findings, the application can be further improved with the main focus being improving the settings,
+  overall mapping of features, and user feedback for saving (Aforementioned presets, playlists, etc.)  
 
 [Full phase III report](phaseIII/)
