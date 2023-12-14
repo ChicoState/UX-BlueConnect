@@ -43,12 +43,15 @@ This gets the participants overall impression of the application by getting what
 
 ## Findings
 
-The findings from the Usability Test were collated into a [Spreadsheet](https://docs.google.com/spreadsheets/d/1luWYVmIG-7Ci7HbFj4Ql9mjTNEpF34J8a3IvDMtyEwY/edit?usp=sharing).
+The findings from the Usability Test were collated into this [Spreadsheet](https://docs.google.com/spreadsheets/d/1luWYVmIG-7Ci7HbFj4Ql9mjTNEpF34J8a3IvDMtyEwY/edit?usp=sharing).
 
+### Qualitative Data:
+
+There were several areas of improvement suggested by the participants: 
 
 ### Quantitative Data:
 
-100 % of the participants were able to complete Task 1 and Task 2. The User Ratings from Task 1 & Task 2 (and to that extent the overall test) both had 33% of participants give a score of 3 (satisfied) and 67% of participants give a score of 4 (very satisfied).
+From the spreadsheet, 100% of the participants were able to complete Task 1 and Task 2. Also, the User Ratings from Task 1 & Task 2 (and to that extent the overall test) both had 33% of participants give a score of 3 (satisfied) and 67% of participants give a score of 4 (very satisfied).
 
 ![User Ratings](../phaseIII/User_Ratings.png)
 
