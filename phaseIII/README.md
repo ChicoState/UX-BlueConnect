@@ -6,15 +6,9 @@ With developing an Interactive Prototype (Using Wireframes made during Phase II)
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
-  
-The research method done during this phase was the Usability Test. This Usability Test was conducted through this [Protocol](../phaseIII/Protocol.pdf) and data was collected via a spreadsheet (In Findings).
+The research method for Phase III was a Usability Test (n = 6) done on the BlueConnect Prototype. The [Protocol](../phaseIII/Protocol.pdf) was used by the moderator to conduct the test and data was collected via a [Spreadsheet](https://docs.google.com/spreadsheets/d/1luWYVmIG-7Ci7HbFj4Ql9mjTNEpF34J8a3IvDMtyEwY/edit?usp=sharing). Below the Protocol will be broken down to assess the methodology of the Usability Test.
 
-In this usability test the participants (n = 6)
 
-Describe the methodology so it can be replicated (all the steps described and break down the protocol with reasoning). Quote given task.
- 
-or upload pdf of protocol and reference it.
 
 ## Findings
 
