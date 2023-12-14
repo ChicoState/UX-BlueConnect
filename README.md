@@ -62,12 +62,13 @@ BlueConnect is a mobile application intended to allow the user to seamlessly con
   - Clearer design for the mixer (E.g., a slider that slides instead of being a notch)
   - Make the design of each screen less cluttered
 * Quantitative data from the Usability Test:
-  - 100% of the participants had multiple Bluetooth devices that they would frequently use
   - 100% of the participants passed both Task 1 and Task 2
-  - 33% of the participants gave Task 1 the user rating 3 - Satisfied (Scaled from 1 - 4)
-  - 67% of the participants gave Task 1 the user rating 4 - Very Satisfied (Scaled from 1 - 4)
-  - 33% of the participants gave Task 2 the user rating 3 - Satisfied (Scaled from 1 - 4)
-  - 67% of the participants gave Task 2 the user rating 4 - Very Satisfied (Scaled from 1 - 4)
+  - 33% of the participants gave Task 1 the User Rating: 3 - Satisfied (Scaled from 1 - 4)
+  - 67% of the participants gave Task 1 the User Rating: 4 - Very Satisfied (Scaled from 1 - 4)
+  - 33% of the participants gave Task 2 the User Rating: 3 - Satisfied (Scaled from 1 - 4)
+  - 67% of the participants gave Task 2 the User Rating: 4 - Very Satisfied (Scaled from 1 - 4)
+  - 33% of the participants gave an overall User Rating: 3 - Satisfied (Scaled from 1 - 4)
+  - 67% of the participants gave an overall User Rating: 4 - Very Satisfied (Scaled from 1 - 4)
 * From the feedback and findings, the application can be further improved with the main focus being improving the settings,
   overall mapping of features, and user feedback for saving (Aforementioned presets, playlists, etc.)  
 
