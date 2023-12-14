@@ -51,9 +51,7 @@ For quantitative data: percentage of participants that completed a task, percent
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
-
-Recommendations from participants that were not in the prototype
+While 100% of participants were able to successfully complete both tasks, we did receive lots of useful feedback on ways that the applications design could be improved in order to streamline its use.  User insights indicated that future designs should have more visual clarity, such as decluttering the screen and more clearly indicating what can and cannot be interacted with.  Additionally, better feedback when an action is performed would help alleviate user confusion on whether an action was successful.
 
 Show percentage of some thing and explain why
 
