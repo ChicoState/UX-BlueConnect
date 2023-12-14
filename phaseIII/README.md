@@ -7,7 +7,8 @@ With developing an Interactive Prototype (Using Wireframes made during Phase II)
 ## Methods
 
 The research method for Phase III was a Usability Test (n = 6) done on the BlueConnect Prototype. The [Protocol](../phaseIII/Protocol.pdf) was used by the moderator to conduct the test and data was collected into a [Spreadsheet](https://docs.google.com/spreadsheets/d/1luWYVmIG-7Ci7HbFj4Ql9mjTNEpF34J8a3IvDMtyEwY/edit?usp=sharing). But before the test could begin, the partipant is handed a [Informed Consent Form](../phaseIII/Informed_Consent_Form.pdf) that they must sign for the test to continue.  
- 
+
+It is important to note that the study will not involve a comparative analysis with a leading competitor as no similar application exists. Instead, both quantitative and qualitative data will be gathered to understand user preferences and experiences. 
 
 ### Below the Protocol will be broken down to assess the methodology of the Usability Test (In order of Methods):  
 
@@ -20,7 +21,7 @@ Welcome! Thank you for participating in our study. Your feedback is essential in
 ##### Background:
 Before we begin, we would like to know a little about your previous experiences with Bluetooth devices and your expectations from an application like BlueConnect.  
 
-The Intro serves as a way to ease the participant into the study and establish a tone for how the test will be conducted. The Background is to assess the participants' experiences with Bluetooth to see how knowledgeable they are to the overall functionality.
+The Intro serves as a way to ease the participant into the study (stress-free test) and establish a tone for how the test will be conducted. The Background is to assess the participants' experiences with Bluetooth to see how knowledgeable they are to the overall functionality.
 
 ### Method 2:	Have participants complete Task 1 and record any observations from participant, success of task, and user rating.
 
@@ -53,7 +54,7 @@ There were several areas of improvement suggested by the participants:
 - Clearer design for the mixer (E.g., a slider that slides instead of being a notch)
 - Make the design of each screen less cluttered
 
-From the suggestions, the main issues can be derived to functionality and flow of the application. There is a mismatch between the participants mental model with the conceptual model for BlueConnect. Some buttons behave differently from what a user is expecting and there should be more feedback coming from the interaction (E.x. Notifications for whether something saved). There is also a need to simplify the design even further to make the screen look less busy (cluttered) and easier to comprehend so all the functions can be seen. 
+From the suggestions, the main issues can be derived to functionality and flow of the application. There is a mismatch between the participants mental model with the conceptual model for BlueConnect. Some buttons behave differently from what a user is expecting and there should be more feedback coming from the interaction (E.x. Notifications for whether something saved). There is also a need to simplify the design even further to make the screen look less busy (cluttered) and easier to comprehend so all the functions can be seen (visible). 
 
 
 ### Quantitative Data:
