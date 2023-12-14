@@ -47,7 +47,7 @@ The findings from the Usability Test were collated into a [Spreadsheet](https://
 
 Give themes of qualitative data
 
-For quantitative data: percentage of participants that completed a task, percentage of participants that like ... Use a stacked graph (Excel 100% stacked graph)
+![User Ratings](../phaseIII/User_Ratings.png)
 
 ## Conclusions
 
