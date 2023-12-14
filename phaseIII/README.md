@@ -13,7 +13,7 @@ In this usability test the participants (n = 6)
 Methods: Usability Test and maybe Informal Feedback
 
 Describe the methodology so it can be replicated (all the steps described and break down the protocol with reasoning). Quote given task.
-
+ 
 or upload pdf of protocol and reference it.
 
 ## Findings
