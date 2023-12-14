@@ -6,7 +6,15 @@ With developing an Interactive Prototype (Using Wireframes made during Phase II)
 
 ## Methods
 
-The research method for Phase III was a Usability Test (n = 6) done on the BlueConnect Prototype. The [Protocol](../phaseIII/Protocol.pdf) was used by the moderator to conduct the test and data was collected via a [Spreadsheet](https://docs.google.com/spreadsheets/d/1luWYVmIG-7Ci7HbFj4Ql9mjTNEpF34J8a3IvDMtyEwY/edit?usp=sharing). Below the Protocol will be broken down to assess the methodology of the Usability Test.
+The research method for Phase III was a Usability Test (n = 6) done on the BlueConnect Prototype. The [Protocol](../phaseIII/Protocol.pdf) was used by the moderator to conduct the test and data was collected into a [Spreadsheet](https://docs.google.com/spreadsheets/d/1luWYVmIG-7Ci7HbFj4Ql9mjTNEpF34J8a3IvDMtyEwY/edit?usp=sharing). But before the test could begin, the partipant is handed a [Consent Form](../phaseIII/Consent_Form.pdf) that they must sign for the test to continue.
+
+### Below the Protocol will be broken down to assess the methodology of the Usability Test.
+
+Introduction:
+Welcome! Thank you for participating in our study. Your feedback is essential in helping us improve the functionality and design of the BlueConnect app. In this session, you will be asked to connect multiple Bluetooth devices using our application. Please feel free to speak aloud your thoughts and experiences as you navigate through the tasks.
+
+Background:
+Before we begin, we would like to know a little about your previous experiences with Bluetooth devices and your expectations from an application like BlueConnect.
 
 
 
