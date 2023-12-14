@@ -8,10 +8,9 @@
 
 !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
   
-The Usability Test was conducted through this [Protocol](../phaseIII/Protocol.pdf).
-In this usability test the participants (n = 6)
+The research method done during this phase was the Usability Test. This Usability Test was conducted through this [Protocol](../phaseIII/Protocol.pdf) and data was collected via a spreadsheet (In Findings).
 
-Methods: Usability Test and maybe Informal Feedback
+In this usability test the participants (n = 6)
 
 Describe the methodology so it can be replicated (all the steps described and break down the protocol with reasoning). Quote given task.
  
