@@ -38,6 +38,4 @@ Show percentage of some thing and explain why
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
-
-Participants limited to people in this class (not an ideal recruitment scenario)
+Our sample size was somewhat small and having all the participants come from the same demographic (college students) may have skewed our results a bit.  We did not have any participants who had no experience with Bluetooth devices meaning that we got no data on how people with no previous knowledge of Bluetooth apps would interact with our design. Additionally testing with a prototype can lead to the oversight of issues with features that are not fully implemented in the prototype but will be in the applications final release.
