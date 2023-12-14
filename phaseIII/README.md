@@ -2,7 +2,7 @@
 
 ## Introduction
 
-With developing an Interactive Prototype during this phase, a Usability Test was conducted to determine how Effective, Efficicent, and Satisfactory the application was at completing two tasks: Adjusting multiple device settings and creating a playlsit. The results are then used to improve the application's design, functionality, and to create a better user experience.
+With developing an Interactive Prototype (Using Wireframes made during Phase II) during this phase, a Usability Test was conducted to determine how Effective, Efficicent, and Satisfactory the application was at completing two tasks: Adjusting multiple device settings and creating a playlist. The results are then used to improve the application's design, functionality, and to create a better user experience.
 
 ## Methods
 
