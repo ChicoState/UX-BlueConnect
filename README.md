@@ -31,7 +31,7 @@ BlueConnect is a mobile application intended to allow the user to seamlessly con
 
 [Full phase I report](phaseI/)
 
-# Phase II: Refining interaction and designing wireframes
+# Phase II: Refining Interaction and Designing Wireframes
 
 **Executive Summary**
 * In this phase a Cognitive Walkthrough is done with a sample user and scenario for the current wireframe.
