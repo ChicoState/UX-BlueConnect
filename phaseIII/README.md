@@ -32,9 +32,9 @@ Configuration is the most important part for each Bluetooth device. Feedback/Use
 ##### Task 2: Create a playlist
 Participants will be asked to create a playlist. Navigating to the playlist screen, naming the playlist, then adding a song to the playlist.
 
-Since this application is a music player, users should be able to create custom playlists. Feedback/User Ratings here will provide help in designing layout and/or how much freedom is given to users(E.g., freedom to custom make visual for playlist).
+Since this application is a music player, users should be able to create custom playlists. Feedback/User Ratings here will provide help in designing layout and/or how much freedom is given to users (E.g., freedom to custom make visual for playlist).
 
-##### Method 4: Record user rating and feedback on their overall experience.
+#### Method 4: Record user rating and feedback on their overall experience.
 
 This gets the participants overall impression of the application by getting what they found was the most important need for improvement (or bright spot of application) and this will be used to further improve notable flaws in the application.
 
