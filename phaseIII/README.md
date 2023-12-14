@@ -64,9 +64,7 @@ From the spreadsheet, 100% of the participants were able to complete Task 1 and 
 
 ## Conclusions
 
-While 100% of participants were able to successfully complete both tasks, we did receive lots of useful feedback on ways that the applications design could be improved in order to streamline its use.  User insights indicated that future designs should have more visual clarity, such as decluttering the screen and more clearly indicating what can and cannot be interacted with.  Additionally, better feedback when an action is performed would help alleviate user confusion on whether an action was successful.
-
-Show percentage of some thing and explain why
+While 100% of participants were able to successfully complete both tasks, we did receive lots of useful feedback on ways that the applications design could be improved in order to streamline its use. In both tests 33% of participants gave a score of 3 (satisfied) rather than 4 (very satisfied), indicating that users were overall pleased with the product but that there are areas in which the design could be improved. User insights indicated that future designs should have more visual clarity, such as decluttering the screen and more clearly indicating what can and cannot be interacted with. Better visual indications of how the application is meant to be interacted with should help prevent user confusion. Additionally, better feedback when an action is performed would further improve the user’s experience by giving confirmation that their actions have been successful.
 
 ## Caveats
 
