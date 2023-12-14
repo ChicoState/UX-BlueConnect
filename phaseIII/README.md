@@ -8,14 +8,35 @@ With developing an Interactive Prototype (Using Wireframes made during Phase II)
 
 The research method for Phase III was a Usability Test (n = 6) done on the BlueConnect Prototype. The [Protocol](../phaseIII/Protocol.pdf) was used by the moderator to conduct the test and data was collected into a [Spreadsheet](https://docs.google.com/spreadsheets/d/1luWYVmIG-7Ci7HbFj4Ql9mjTNEpF34J8a3IvDMtyEwY/edit?usp=sharing). But before the test could begin, the partipant is handed a [Informed Consent Form](../phaseIII/Informed_Consent_Form.pdf) that they must sign for the test to continue.
 
-### Below the Protocol will be broken down to assess the methodology of the Usability Test:
+### Below the Protocol will be broken down to assess the methodology of the Usability Test (In order of Methods):
 
-Introduction:
+### Method 1:	Introduce application to participants then survey participants to gather demographic and background information.
+
+##### Introduction:
 Welcome! Thank you for participating in our study. Your feedback is essential in helping us improve the functionality and design of the BlueConnect app. In this session, you will be asked to connect multiple Bluetooth devices using our application. Please feel free to speak aloud your thoughts and experiences as you navigate through the tasks.
 
-Background:
-Before we begin, we would like to know a little about your previous experiences with Bluetooth devices and your expectations from an application like BlueConnect.
+##### Background:
+Before we begin, we would like to know a little about your previous experiences with Bluetooth devices and your expectations from an application like BlueConnect.  
 
+The Intro serves as a way to ease the participant into the study and establish a tone for how the test will be conducted. The Background is to assess the participants' experiences with Bluetooth to see how knowledgeable they are to the overall functionality.
+
+### Method 2:	Have participants complete Task 1 and record any observations from participant, success of task, and user rating.
+
+##### Task 1: Multi-Device Configuration
+Participants will be instructed to connect a smartphone and a wireless earbud set simultaneously. They will then be asked to customize the audio settings for each device through the BlueConnect app. Participants will further engage in optimizing their audio experience by adjusting the equalizer settings on the BlueConnect app, allowing them to fine-tune the audio mix to their preferences, emphasizing bass or treble frequencies for both smartphone notifications and wireless earbuds, ensuring a personalized and immersive auditory environment.
+
+Configuration is the most important part for each Bluetooth device. Feedback/User Ratings here will be used to improve learnability, natural mapping, and overall conventions. The buttons should be easy to understand, easy to see (visible), and match how the user expects the application to function.
+
+### Method 3:	Have participants complete Task 2 and record any observations from participant, success of task, and user rating.
+
+##### Task 2: Create a playlist
+Participants will be asked to create a playlist. Navigating to the playlist screen, naming the playlist, then adding a song to the playlist.
+
+Since this application is a music player, users should be able to create custom playlists. Feedback/User Ratings here will provide help in designing layout and/or how much freedom is given to users(E.g., freedom to custom make visual for playlist).
+
+##### Method 4: Record user rating and feedback on their overall experience.
+
+This gets the participants overall impression of the application by getting what they found was the most important need for improvement (or bright spot of application) and this will be used to further improve notable flaws in the application.
 
 
 ## Findings
