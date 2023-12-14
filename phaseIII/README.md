@@ -8,6 +8,7 @@
 
 !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
 
+The Usability Test was conducted through this [Protocol](../phaseIII/Protocol.pdf).
 In this usability test the participants (n = 6)
 
 Methods: Usability Test and maybe Informal Feedback
