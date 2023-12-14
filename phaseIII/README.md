@@ -20,6 +20,7 @@ or upload pdf of protocol and reference it.
 
 !!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
 
+([Spreadsheet](https://docs.google.com/spreadsheets/d/1luWYVmIG-7Ci7HbFj4Ql9mjTNEpF34J8a3IvDMtyEwY/edit?usp=sharing)) 
 Give themes of qualitative data
 
 For quantitative data: percentage of participants that completed a task, percentage of participants that like ... Use a stacked graph (Excel 100% stacked graph)
