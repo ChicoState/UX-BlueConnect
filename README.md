@@ -9,7 +9,7 @@ BlueConnect is a mobile application intended to allow the user to seamlessly con
 * **[Daniel Rogers](https://github.com/UsabilityEngineering/ux-portfolio-droge91/blob/3e5aa57f10c3ef0bf55f186bfd34936d14a966cb/README.md)** - Phase I: Caveats, Conclusions, Executive Summary //
   Phase II: Caveats, Conclusions, Executive Summary // Phase III: Caveats, Conclusions, Executive Summary, IRB, Consent Form
 * **[Andre de Rosas](https://github.com/UsabilityEngineering/ux-portfolio-acderosas/blob/7a411be7cf9e058c7f136547a4d60ab5fa39037f/README.md)** - Phase I: Sketches/Diagrams, Personas and Scenarios, and Findings //
-  Phase II: Wireframes, Findings // Phase III: Prototype, Findings, Spreadsheet
+  Phase II: Wireframes, Findings // Phase III: Prototype, Findings, Spreadsheet 
 
 
 # User-Centered Design Artifacts
